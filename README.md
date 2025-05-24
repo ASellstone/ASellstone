@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hello world!
 
-<!--
-**ASellstone/ASellstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Andreas Sellstone, and I am a cognitive scientist with an interest in human interaction with technology.
 
-Here are some ideas to get you started:
+I am looking to contributing in whatever way I can, but as of right now, I am especially excited to contribute to documentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My technical interests
+
+- Human-Computer Interaction
+- Technical writing
+- Usability
+- Research
+- Data analysis
+
+## What I'm working on
+
+- Contributing documentation to open-source
+- Courses in web development and programming
+
+## In my free time
+
+- Writing
+- Reading
+- Watching movies
+- Playing video games
+
+## Find me elsewhere
+
+- [My website](https://andreassellstone.com/)
+- [Medium](https://medium.com/@andreassellstone)
+
+## Connect with me at
+
+- [Email](mailto:andreas@sellstone.se)
+- [LinkedIn](https://www.linkedin.com/in/andreas-sellstone-9465462b3/?locale=en_US)
