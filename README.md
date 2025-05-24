@@ -2,7 +2,7 @@
 
 My name is Andreas Sellstone, and I am a cognitive scientist with an interest in human interaction with technology.
 
-I am looking to contributing in whatever way I can, but as of right now, I am especially excited to contribute to documentation.
+I am looking to contribute in whatever way I can, but as of right now, I am especially excited to contribute to documentation.
 
 ## My technical interests
 
