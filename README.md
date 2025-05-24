@@ -16,6 +16,7 @@ I am looking to contribute in whatever way I can, but right now I am especially 
 
 - Contributing documentation to open-source
 - Courses in web development and programming
+-  [My blog](https://andreassellstone.com/writing)
 
 ## In my free time
 
