@@ -30,7 +30,7 @@ I am looking to contribute in whatever way I can, but right now I am especially 
 - [My website](https://andreassellstone.com/)
 - [Medium](https://medium.com/@andreassellstone)
 
-## Connect with me at
+## Connect with me
 
 - [Email](mailto:andreas@sellstone.se)
 - [LinkedIn](https://www.linkedin.com/in/andreas-sellstone-9465462b3/?locale=en_US)
