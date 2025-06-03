@@ -15,6 +15,7 @@ I am looking to contribute in whatever way I can, but right now I am especially 
 ## What I'm working on
 
 - Contributing documentation to open-source
+- Homelab
 - Courses in web development and programming
 -  [My blog](https://andreassellstone.com/writing)
 
